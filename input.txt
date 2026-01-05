@@ -21,7 +21,7 @@ cover the same distance is reduced by 30 minutes.
 Find the original time taken by the train (in hours).
 
 MULTI-HOP QA
-
+INPUT
 Which city hosted the Summer Olympics in the same year that the
 founder of Microsoft stepped down as CEO?
 
@@ -30,7 +30,7 @@ B. Beijing
 C. London
 D. Sydney
 
-
+CONTEXT
 Microsoft was founded by Bill Gates and Paul Allen in 1975.
 Bill Gates served as CEO of Microsoft until January 2000, when
 Steve Ballmer took over the role.
@@ -40,4 +40,5 @@ The 2000 Summer Olympics were held in Sydney, Australia.
 The 2004 Summer Olympics were held in Athens, Greece.
 The 2008 Summer Olympics were held in Beijing, China.
 The 2012 Summer Olympics were held in London, United Kingdom.
+
 
