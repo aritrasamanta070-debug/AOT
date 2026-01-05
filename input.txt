@@ -1,0 +1,42 @@
+Code generation
+You are given a list of integers nums and an integer k.
+
+Write a Python function that returns the number of contiguous subarrays
+whose sum is exactly equal to k.
+
+Constraints:
+- 1 ≤ len(nums) ≤ 10^5
+- -10^4 ≤ nums[i] ≤ 10^4
+- -10^7 ≤ k ≤ 10^7
+
+The solution must run in O(n) time.
+
+MATH REASONIMG
+
+A train travels a certain distance at a constant speed.
+
+If the speed of the train is increased by 20%, the time taken to
+cover the same distance is reduced by 30 minutes.
+
+Find the original time taken by the train (in hours).
+
+
+
+Which city hosted the Summer Olympics in the same year that the
+founder of Microsoft stepped down as CEO?
+
+A. Athens
+B. Beijing
+C. London
+D. Sydney
+
+
+Microsoft was founded by Bill Gates and Paul Allen in 1975.
+Bill Gates served as CEO of Microsoft until January 2000, when
+Steve Ballmer took over the role.
+
+The Summer Olympic Games are held every four years.
+The 2000 Summer Olympics were held in Sydney, Australia.
+The 2004 Summer Olympics were held in Athens, Greece.
+The 2008 Summer Olympics were held in Beijing, China.
+The 2012 Summer Olympics were held in London, United Kingdom.
